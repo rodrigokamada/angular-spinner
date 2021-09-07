@@ -8,7 +8,10 @@ import { NgxSpinnerService } from 'ngx-spinner';
 })
 export class AppComponent {
 
+  typeSelected: string;
+
   constructor(private spinnerService: NgxSpinnerService) {
+    this.typeSelected = 'ball-fussion';
   }
 
   public showSpinner(): void {
