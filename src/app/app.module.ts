@@ -15,10 +15,11 @@ import { AppComponent } from './app.component';
     BrowserModule,
     BrowserAnimationsModule,
     FormsModule,
-    AppRoutingModule,
     NgxSpinnerModule,
+    AppRoutingModule,
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [
     AppComponent,
   ],

@@ -1,15 +1,15 @@
 # Angular Spinner
 
 
-Application example built with [Angular 12](https://angular.io/) and adding the loading (spinner) component using the [ngx-spinner](https://www.npmjs.com/package/ngx-spinner) library.
+Application example built with [Angular 13](https://angular.io/) and adding the loading (spinner) component using the [ngx-spinner](https://www.npmjs.com/package/ngx-spinner) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-loading-component-spinner-to-an-angular-application-4mk0) in english.
 
 
 
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
+[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
+[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
 
 
 
@@ -84,8 +84,8 @@ imports: [
   BrowserModule,
   BrowserAnimationsModule,
   FormsModule,
-  AppRoutingModule,
   NgxSpinnerModule,
+  AppRoutingModule,
 ],
 ```
 
@@ -221,7 +221,7 @@ Build at: 2021-09-07T01:43:42.126Z - Hash: 52e507be2073bee125a1 - Time: 5289ms
 
 **8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-spinner/) and [Stackblitz](https://stackblitz.com/edit/angular12-spinner).
 
-![Angular Spinner](docs/images/angular-spinner.gif)
+![Angular Spinner](https://res.cloudinary.com/rodrigokamada/image/upload/v1638403541/Blog/angular-spinner/angular-spinner.gif)
 
 
 

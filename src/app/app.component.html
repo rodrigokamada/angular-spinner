@@ -58,7 +58,7 @@
       <option value="triangle-skew-spin">Triangle Skew Spin</option>
     </select>
     <div *ngIf="type.invalid && (type.dirty || type.touched)" class="invalid-feedback">
-      <div *ngIf="type.errors?.required">This field is required.</div>
+      <div *ngIf="type.errors?.['required']">This field is required.</div>
     </div>
     <button type="button" class="btn btn-sm btn-primary" (click)="showSpinner()">Show Spinner</button>
   </div>
