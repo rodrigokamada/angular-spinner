@@ -220,7 +220,7 @@ Build at: 2021-09-07T01:43:42.126Z - Hash: 52e507be2073bee125a1 - Time: 5289ms
 ✔ Compiled successfully.
 ```
 
-**8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-spinner/) and [Stackblitz](https://stackblitz.com/edit/angular14-spinner).
+**8.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-spinner/) and [Stackblitz](https://stackblitz.com/edit/angular15-spinner).
 
 ![Angular Spinner](https://res.cloudinary.com/rodrigokamada/image/upload/v1638403541/Blog/angular-spinner/angular-spinner.gif)
 
