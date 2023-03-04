@@ -1,7 +1,7 @@
 # Angular Spinner
 
 
-Application example built with [Angular](https://angular.io/) 14 and adding the loading (spinner) component using the [ngx-spinner](https://www.npmjs.com/package/ngx-spinner) library.
+Application example built with [Angular](https://angular.io/) 15 and adding the loading (spinner) component using the [ngx-spinner](https://www.npmjs.com/package/ngx-spinner) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-carregamento-spinner-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-loading-component-spinner-to-an-angular-application-4mk0) in english.
 
